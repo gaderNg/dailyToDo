@@ -2,16 +2,16 @@
 {
 "id" : 1,
 "done" : false,
-"check with ToM fire marshall."
+"task" : "check with ToM fire marshall."
 },
 {
 "id" : 2,
 "done" : true,
-"Research React."
+"task" : "Research React."
 },
 {
 "id" : 3,
 "done" : false,
-"Research Vue."
+"task" : "Research Vue."
 }
 ]
